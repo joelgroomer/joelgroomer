@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Fkouris_john)](https://twitter.com/julltron)
 
 
-I'm an iOS developer specializing in Swift with experience in both UIKit and SwiftUI, as well as some exposure to Objective-C. I also have some personal experience with web development, including front-end technologies like JavaScript, React, and Angular, as well as back-end technologies like Node.js. This gives me a good perspective and helps me when it's time to interface with web developers to integrate mobile apps to a back-end system. 
+I'm an iOS developer specializing in Swift with experience in both UIKit and SwiftUI, as well as exposure to Objective-C. I also have some personal experience with web development, including front-end technologies like JavaScript, React, and Angular, as well as back-end technologies like Node.js. This gives me a good perspective and helps me when it's time to interface with web developers to integrate mobile apps to a back-end system. 
 
 Graduating from Lambda School November 2020, I'm looking to start my career as an iOS Developer.
 
