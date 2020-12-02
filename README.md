@@ -7,11 +7,13 @@
 
 I'm an iOS developer specializing in Swift with experience in both UIKit and SwiftUI, as well as exposure to Objective-C. I also have some personal experience with web development, including front-end technologies like JavaScript, React, and Angular, as well as back-end technologies like Node.js. This gives me a good perspective and helps me when it's time to interface with web developers to integrate mobile apps to a back-end system. 
 
-Graduating from Lambda School November 2020, I'm looking to start my career as an iOS Developer.
-
 👤 [Portfolio](https://joelgroomer.com)
 
-
+### 📜 Certification
+<a href="https://www.youracclaim.com/badges/b8957fa0-b432-4728-8432-459dc084d721/public_url"><img width="20%" src="https://github.com/joelgroomer/joelgroomer/blob/main/lambda-badge-ios-dev.png" alt="View my verified achievement from Lambda School."></a>
+<a href="https://www.youracclaim.com/badges/b8957fa0-b432-4728-8432-459dc084d721/public_url"><img height="5%" src="https://github.com/joelgroomer/joelgroomer/blob/main/lambda-skills.png?raw=true" alt="List of certified skills."></a>
+	
+<a href="https://www.youracclaim.com/badges/b8957fa0-b432-4728-8432-459dc084d721/public_url">View my verified achievement from Lambda School.</a>
 
 #### :computer: Programming languages and tools: 
 <p>
